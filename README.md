@@ -10,7 +10,7 @@
 * 🎓 **Formação:** Estudante de Ciência da Computação
 * 💼 **Foco Atual:** Desenvolvimento Java, Programação Orientada a Objetos (POO) e Suporte em TI
 * 🛠️ **Perfil:** Apaixonado por tecnologia, automação, resolução de problemas e manutenção de hardware
-* ⚡ **Hobbies:** Jogar , motos, customização de veículos e tecnologia no geral
+* ⚡ Hobbies: Games, motos, customização automotiva e tecnologia em geral.
 
 <br>
 
