@@ -4,13 +4,13 @@
 
 ### 🕵️‍♂️ Sobre mim
 
-**Olá! Me chamo Isaac Euler 👋**
+**Olá! Me chamo Isaac Euler **
 
 * 📍 **Localização:** Blumenau, SC - Brasil
 * 🎓 **Formação:** Estudante de Ciência da Computação
 * 💼 **Foco Atual:** Desenvolvimento Java, Programação Orientada a Objetos (POO) e Suporte em TI
 * 🛠️ **Perfil:** Apaixonado por tecnologia, automação, resolução de problemas e manutenção de hardware
-* ⚡ Hobbies: Games, motos, customização automotiva e tecnologia em geral.
+* ⚡ Hobbies: Games, motos e desbravar novas tecnologias.
 
 <br>
 
